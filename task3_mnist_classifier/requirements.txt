@@ -1,0 +1,16 @@
+# Python dependencies for MNIST digit classifier
+
+# Core numerical computing
+numpy>=1.21.0
+
+# Deep learning for CNN
+tensorflow>=2.8.0
+
+# Machine learning for Random Forest
+scikit-learn>=1.0.0
+
+# Model persistence
+joblib>=1.1.0
+
+# Optional: for loading real MNIST data
+# keras>=2.8.0
